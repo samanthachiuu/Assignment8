@@ -28,6 +28,10 @@ I made the decisions for the graphical interface design by trying to look at Goo
 
 <img width="797" alt="Screen Shot 2020-03-03 at 12 38 06 AM" src="https://user-images.githubusercontent.com/59623131/75757500-51ee6480-5ce7-11ea-87b0-7de6361ff991.png">
 
+<img width="783" alt="Screen Shot 2020-03-03 at 12 48 15 AM" src="https://user-images.githubusercontent.com/59623131/75758289-b100a900-5ce8-11ea-8459-788ca78d1fe0.png">
+
+<img width="757" alt="Screen Shot 2020-03-03 at 12 47 56 AM" src="https://user-images.githubusercontent.com/59623131/75758298-b3fb9980-5ce8-11ea-9251-2cd6b5a69bd4.png">
+
 ## Interactive Prototype
 https://www.figma.com/proto/pTDVdSnVU3DQ6vAo81nkRI/MYSchedule?node-id=4%3A0&scaling=scale-down
 
