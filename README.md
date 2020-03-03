@@ -20,6 +20,12 @@ I made the decisions for the graphical interface design by trying to look at Goo
 
 ## Wireflow
 
+<img width="716" alt="Screen Shot 2020-03-02 at 11 23 08 PM" src="https://user-images.githubusercontent.com/59623131/75756272-3d10d180-5ce5-11ea-9717-77b94cb4fd79.png">
+
+<img width="739" alt="Screen Shot 2020-03-02 at 11 59 53 PM" src="https://user-images.githubusercontent.com/59623131/75756289-439f4900-5ce5-11ea-8dec-1f7f0911c230.png">
+
+<img width="770" alt="Screen Shot 2020-03-03 at 12 01 51 AM" src="https://user-images.githubusercontent.com/59623131/75756314-4c901a80-5ce5-11ea-96e7-fca0cc253274.png">
+
 
 
 
