@@ -19,7 +19,7 @@ The purpose of this high-fidelity prototype is so that the users testing it can 
 I made the decisions for the graphical interface design by trying to look at Google Calendar and myucla.edu and finding a balance between the two of them. I decided on this color scheme because it is simple and easy to read. I did not want anything too bright or a color that might be hard for someone who is colorblind to read. This turquoise also has a good contrast with the white text underneath. I also used gray shading as another color to my prototype as it helps with separating the different sections on the page. I used components of a calendar and vertical scrolling for my screens as well. 
 
 ## Wireflow
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpTDVdSnVU3DQ6vAo81nkRI%2FMYSchedule%3Fnode-id%3D121%253A176" allowfullscreen></iframe>
+
 
 
 
