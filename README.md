@@ -43,13 +43,13 @@ Notes from testing:
 
 * It was hard to select the first time with the cursor but I know this is because the mouse size is really big
  
-For hangouts, if they click maps, will it show the location on a new or just as a pop-up?
+* For hangouts, if they click maps, will it show the location on a new or just as a pop-up?
 
-I was a little confused on how to change the notification time and whether it was a button (can I choose not add notifications?)
+* I was a little confused on how to change the notification time and whether it was a button (can I choose not add notifications?)
 
-I really liked the confirmation messages, it showed me that I successfully completed a step
+* I really liked the confirmation messages, it showed me that I successfully completed a step
 
-Overall your flow was really straight forward, there were no dead ends and the design is really intuitive for the user!
+* Overall your flow was really straight forward, there were no dead ends and the design is really intuitive for the user!
 
 
 
