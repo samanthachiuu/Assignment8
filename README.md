@@ -41,7 +41,7 @@ Userability Testing Video: Attached to file
 
 Notes from testing: 
 
-It was hard to select the first time with the cursor but I know this is because the mouse size is really big
+* It was hard to select the first time with the cursor but I know this is because the mouse size is really big
  
 For hangouts, if they click maps, will it show the location on a new or just as a pop-up?
 
