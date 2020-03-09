@@ -10,6 +10,8 @@ The purpose of this high-fidelity prototype is so that the users testing it can 
 
 ## Graphic Design 
 
+<img width="348" alt="Screen Shot 2020-03-08 at 6 47 41 PM" src="https://user-images.githubusercontent.com/59623131/76177168-93ac5e80-6170-11ea-892d-088013971a3a.png">
+
 <img width="300" alt="Screen Shot 2020-03-02 at 10 55 55 PM" src="https://user-images.githubusercontent.com/59623131/75751730-0a161000-5cdc-11ea-96b1-6a5fde349d60.png">
 
 <img width="300" alt="Screen Shot 2020-03-02 at 10 55 03 PM" src="https://user-images.githubusercontent.com/59623131/75751735-0da99700-5cdc-11ea-82bc-28074ca26db7.png">
